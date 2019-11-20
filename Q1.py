@@ -1,6 +1,4 @@
 
-
-
 #A)
 def datasplit(data):
   dataint = {}
